@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string-array name="animal_array">
+        <item>Nothing</item>
+        <item>Kill the snake and take it to the hospital</item>
+        <item>Take a photo of the snake</item>
+    </string-array>
+    <string name="emergency_number">What is the emergency number?</string>
+    <string name="cpr_procedure">Which of the following images respresents the CPR procedure?</string>
+    <string name="skin_burn">How do you proceed in case of a skin burn?</string>
+    <string name="cream">Use a cream</string>
+    <string name="cool_water">Apply cool water</string>
+    <string name="clothing">Remove the clothing</string>
+    <string name="temperature_question">What is the optimal temeperature for a human?</string>
+    <string name="min_temp">36°</string>
+    <string name="max_temp">38°</string>
+    <string name="current_temp">37°</string>
+    <string name="animal_question">What do you do in the following situation?</string>
+    <string name="bone_break_question">How is the injury caused by a bone break called?</string>
+    <string name="fracture_question">How do you treat a fracture?</string>
+    <string name="tie_rope">Tie the bone with a rope</string>
+    <string name="splint">Make a splint</string>
+    <string name="ice">Apply ice</string>
+    <string name="chocking_question">How do you save a person from chocking?</string>
+    <string name="give_water">Give them water</string>
+    <string name="hug_pressure">Hug them from behind and apply pressure</string>
+    <string name="thurst">Thrust upward to expel air from the lungs</string>
+    <string name="submit">Submit</string>
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="question5">Question 5</string>
+    <string name="question6">Question 6</string>
+    <string name="question7">Question 7</string>
+    <string name="question8">Question 8</string>
+    <string name="cdes_1">Image of someone applying pressure on a person\'s lungs</string>
+    <string name="cdes_2">Image of someone treating a wound</string>
+    <string name="cdes_3">Image of someone resuscitating a person</string>
+    <string name="cdes_animal">Image of a blacked out person with a snake near it</string>
+    <string name="cdes_logo">Image of a logo</string>
+    <string name ="answer_one">Depending on your country, the emergency number is a 3-digit number that can be called at any time if needed. Some of them are: 911, 112, 999.</string>
+    <string name="answer_two">The correct image was the third, Cardiopulmonary resuscitation (CPR) is a lifesaving technique useful in many emergencies.</string>
+    <string name="answer_three">Removing the clothing from the burnt area and aplying cool water are the right answers. Using a cream is wrong in this situation.</string>
+    <string name="answer_four">The optimal temperature for a human is 37°.</string>
+    <string name="answer_five">Killing the snake and taking it to the hopital is the best approach, because it will be much easier for the doctors to find a cure.</string>
+    <string name="answer_six">A bone break is also known as a fracture.</string>
+    <string name="answer_seven">The correct answer was to make a splint so that the bone doesn\'t move.</string>
+    <string name="answer_eight">The Heimlich maneuver is performed by straddling the victim from behind and bear-hugging them with your hands interlocked above their belly-button but beneath their breastbone. Thrust upward to expel air from the lungs and repeat until you are successful in clearing the object from the windpipe.</string>
+    <string name="spinnerCheck">Kill the snake and take it to the hospital</string>
+    <string name="scoreString">Your total score is</string>
+    <string name="scoreStringS">out of 8</string>
+    <string name="allDone">Well done! All of your answers are correct. Thanks for completing the quizz.</string>
+    <string name="someMistakes">It looks like some questions were wrong, the following information will help you answer correctly.</string>
+
+
+</resources>
